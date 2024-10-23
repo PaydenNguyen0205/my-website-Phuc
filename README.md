@@ -51,9 +51,9 @@
 <p><a href="https://ies.ecust.edu.cn/en/index.php" style="display: block; text-align: center; margin-top: 20px;">I love Ecust</a></p>
 <hr></hr>
 <div class="container">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfH2GFFW_9mDWJlT_VRUr2HdS73i8RDHuVMw&s" alt="Ecust" class="left-image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfH2GFFW_9mDWJlT_VRUr2HdS73i8RDHuVMw&s" alt="Ecust" class=".left-image">
     
-    <div class="info">
+    <div class=".info">
         <h3>Nguyen Ngoc Truong Phuc</h3>
         <p>Student ID Card: 24040034</p>
         <p>Country: Viet Nam</p>
@@ -61,7 +61,7 @@
         <p>Favorite Hobby: Video Games</p>
     </div>
     
-    <img src="https://cdn.silverdoor.com/blog/sd-media/2024-01/image_65b28a15f2fc80_90391344.jpg?ooMediaId=12024" alt="Shanghai" class="right-image">
+    <img src="https://cdn.silverdoor.com/blog/sd-media/2024-01/image_65b28a15f2fc80_90391344.jpg?ooMediaId=12024" alt="Shanghai" class=".right-image">
 </div>
 
 
